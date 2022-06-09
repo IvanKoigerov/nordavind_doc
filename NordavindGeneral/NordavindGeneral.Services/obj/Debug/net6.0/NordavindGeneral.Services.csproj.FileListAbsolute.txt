@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\NordavindGeneral\NordavindGeneral.Services\bin\Debug\net6.0\NordavindGeneral.Services.deps.json
+C:\Users\User\source\repos\NordavindGeneral\NordavindGeneral.Services\bin\Debug\net6.0\NordavindGeneral.Services.dll
+C:\Users\User\source\repos\NordavindGeneral\NordavindGeneral.Services\bin\Debug\net6.0\NordavindGeneral.Services.pdb
+C:\Users\User\source\repos\NordavindGeneral\NordavindGeneral.Services\bin\Debug\net6.0\NordavindGeneral.Models.dll
+C:\Users\User\source\repos\NordavindGeneral\NordavindGeneral.Services\bin\Debug\net6.0\NordavindGeneral.Models.pdb
+C:\Users\User\source\repos\NordavindGeneral\NordavindGeneral.Services\obj\Debug\net6.0\NordavindGeneral.Services.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\NordavindGeneral\NordavindGeneral.Services\obj\Debug\net6.0\NordavindGeneral.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\NordavindGeneral\NordavindGeneral.Services\obj\Debug\net6.0\NordavindGeneral.Services.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\NordavindGeneral\NordavindGeneral.Services\obj\Debug\net6.0\NordavindGeneral.Services.AssemblyInfo.cs
+C:\Users\User\source\repos\NordavindGeneral\NordavindGeneral.Services\obj\Debug\net6.0\NordavindGeneral.Services.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\NordavindGeneral\NordavindGeneral.Services\obj\Debug\net6.0\NordavindGeneral.Services.csproj.CopyComplete
+C:\Users\User\source\repos\NordavindGeneral\NordavindGeneral.Services\obj\Debug\net6.0\NordavindGeneral.Services.dll
+C:\Users\User\source\repos\NordavindGeneral\NordavindGeneral.Services\obj\Debug\net6.0\refint\NordavindGeneral.Services.dll
+C:\Users\User\source\repos\NordavindGeneral\NordavindGeneral.Services\obj\Debug\net6.0\NordavindGeneral.Services.pdb
+C:\Users\User\source\repos\NordavindGeneral\NordavindGeneral.Services\obj\Debug\net6.0\ref\NordavindGeneral.Services.dll
