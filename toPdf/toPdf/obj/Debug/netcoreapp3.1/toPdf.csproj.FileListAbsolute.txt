@@ -1,0 +1,13 @@
+C:\Users\nikit\source\repos\toPdf\toPdf\bin\Debug\netcoreapp3.1\toPdf.exe
+C:\Users\nikit\source\repos\toPdf\toPdf\bin\Debug\netcoreapp3.1\toPdf.deps.json
+C:\Users\nikit\source\repos\toPdf\toPdf\bin\Debug\netcoreapp3.1\toPdf.runtimeconfig.json
+C:\Users\nikit\source\repos\toPdf\toPdf\bin\Debug\netcoreapp3.1\toPdf.runtimeconfig.dev.json
+C:\Users\nikit\source\repos\toPdf\toPdf\bin\Debug\netcoreapp3.1\toPdf.dll
+C:\Users\nikit\source\repos\toPdf\toPdf\bin\Debug\netcoreapp3.1\toPdf.pdb
+C:\Users\nikit\source\repos\toPdf\toPdf\bin\Debug\netcoreapp3.1\itextsharp.dll
+C:\Users\nikit\source\repos\toPdf\toPdf\obj\Debug\netcoreapp3.1\toPdf.csprojAssemblyReference.cache
+C:\Users\nikit\source\repos\toPdf\toPdf\obj\Debug\netcoreapp3.1\toPdf.AssemblyInfoInputs.cache
+C:\Users\nikit\source\repos\toPdf\toPdf\obj\Debug\netcoreapp3.1\toPdf.AssemblyInfo.cs
+C:\Users\nikit\source\repos\toPdf\toPdf\obj\Debug\netcoreapp3.1\toPdf.csproj.CopyComplete
+C:\Users\nikit\source\repos\toPdf\toPdf\obj\Debug\netcoreapp3.1\toPdf.dll
+C:\Users\nikit\source\repos\toPdf\toPdf\obj\Debug\netcoreapp3.1\toPdf.pdb
