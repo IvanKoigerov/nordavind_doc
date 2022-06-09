@@ -1,0 +1,116 @@
+﻿@page
+@model Nordavind.Pages.Employees.view_docsModel
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html lang="ru">
+   <head>
+      <meta charset="utf-8" />
+      <meta name="viewport" content="width=device-width" />
+      <title>Нордавинд - ваши заявления</title>
+      <link href="../dist/css/style.min.css" rel="stylesheet" type="text/css" />
+      <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet" />
+      <link rel="icon" href="../img/site-icon.png" />
+   </head>
+   <body>
+      <!-- / Header  -->
+
+      <header class="header">
+         <div class="header-logo">
+            <img src="../img/RU_logo_Nordavind__svg_.svg" alt="logo" />
+         </div>
+         <nav class="header-nav_mob header-nav">
+            <button class="header-nav-button menu-close" type="button" aria-expanded="false" aria-controls="header-nav-list">
+               <svg class="header-nav-button-icon" aria-hidden="true">
+                  <use class="header-icon_menu" href="../img/sprite.svg#menu"></use>
+                  <use class="header-icon_cross" href="../img/sprite.svg#cross"></use>
+               </svg>
+            </button>
+
+            <ul class="header-nav-list list_close_anim" id="header-nav-list">
+               <li class="header-nav-item">
+                  <a class="header-nav-link active"> Мои заявления </a>
+               </li>
+               <li class="header-nav-item">
+                  <a class="header-nav-link" asp-area="" asp-page="/Employees/write-docs">Создать заявление</a>
+               </li>
+               <li class="header-nav-item">
+                  <a class="header-nav-link" asp-area="" asp-page="/Employees/officer-docs">Согласованные документы</a>
+               </li>
+               <li class="header-nav-item">
+                  <a class="header-nav-link" asp-area="" asp-page="/Employees/abmin-worker">Сотрудники</a>
+               </li>
+               <li class="header-nav-item arrow">
+                  <a class="header-nav-link not-link">Иванов И.И. <span class="header-nav-arrow"></span> </a>
+                  <ul class="header-nav-sub">
+                     <li class="header-nav-sub_item">
+                        <a asp-area="" asp-page="/index" class="header-nav-link"><img src="../img/out.svg" alt="">Выход</a>
+                     </li>
+                  </ul>
+               </li>
+            </ul>
+           
+         </nav>
+      </header>
+
+      <!-- / Header  -->
+
+      <!--   Main   -->
+
+      <main class="main">
+         <div class="box section-inner2">
+            <table class="table">
+               <thead class="table-haed">
+                  <tr>
+                     <th>Вид заявления</th>
+                     <th>Статус заявления</th>
+                     <th></th>
+                  </tr>
+               </thead>
+               <tbody class="table-body">
+                  <tr>
+                     <td data-title="Вид Заявления">Ежегодный оплачиваемый отпуск</td>
+                     <td data-title="Статус заявления">Ожидает согласования</td>
+                     <td>
+                        <button class="button button-table"><img src="../img/view.svg" alt="" class="img-button">Cмотреть</button>
+                        <button class="button button-table"><img src="../img/cross.svg" alt="" class="img-button">Отозвать</button>
+                     </td>
+                  </tr>
+
+                  <tr>
+                     <td data-title="Вид Заявления">Ежегодный оплачиваемый отпуск</td>
+                     <td data-title="Статус заявления">Ожидает согласования</td>
+                     <td>
+                        <button class="button button-table"><img src="../img/view.svg" alt="" class="img-button">Cмотреть</button>
+                        <button class="button button-table"><img src="../img/cross.svg" alt="" class="img-button">Отозвать</button>
+                     </td>
+                  </tr>
+
+                  <tr>
+                     <td data-title="Вид Заявления">Ежегодный оплачиваемый отпуск</td>
+                     <td data-title="Статус заявления">Ожидает согласования</td>
+                     <td>
+                        <button class="button button-table"><img src="../img/view.svg" alt="" class="img-button">Cмотреть</button>
+                        <button class="button button-table"><img src="../img/cross.svg" alt="" class="img-button">Отозвать</button>
+                     </td>
+                  </tr>
+
+                  <tr>
+                     <td data-title="Вид Заявления">Ежегодный оплачиваемый отпуск</td>
+                     <td data-title="Статус заявления">Ожидает согласования</td>
+                     <td>
+                        <button class="button button-table"><img src="../img/view.svg" alt="" class="img-button">Cмотреть</button>
+                        <button class="button button-table"><img src="../img/cross.svg" alt="" class="img-button">Отозвать</button>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+         </div>
+      </main>
+
+      <!-- /  Main   -->
+
+      <script src="../dist/js/main.min.js"></script>
+   </body>
+</html>
